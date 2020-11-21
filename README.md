@@ -1,12 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Abdulmalik
+A Software developer skilled at problem-solving, technical leadership, communications, and presentations with vast experience in the full project life cycle from design to implementation to integration.
 
-<!--
-**Adekunle27/Adekunle27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy working in teams, collaborating, pair programming and i am a an aspiring Machine Learning Software Engineer 
 
+Aside slapping my keyboard till something magical emerge, i also contribute to open source projects.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on some nice and cool projects 
+- 🌱 I’m currently learning many cool stuffs and skills 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
