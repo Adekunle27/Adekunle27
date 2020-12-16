@@ -62,8 +62,7 @@ Here are some ideas to get you started;
 <a href="https://twitter.com/Emeritus_Ade"><img alt="twitter" src="https://img.shields.io/badge/Twitter-Emeritus_Ade-blue?style=flat-square&logo=twitter"></a>
 <a href="https://facebook.com/malik.azeez.3114935"><img alt="facebook" src="https://img.shields.io/badge/Facebook-Malik Azeez-blue?style=flat-square&logo=facebook"></a>
 <a href="https://instagram.com/Emeritus_Ade"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Emeritus_Ade-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:malikabdulazeez27@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-malikabdulazeez27@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+<a href="mailto:malikabdulazeez27@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-malikabdulazeez27@gmail.com-blue?style=flat-square&logo=gmail"></a></p>
 
 ⭐️ From [Me](https://github.com/Adekunle27)
 
