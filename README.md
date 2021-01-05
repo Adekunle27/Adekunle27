@@ -48,8 +48,8 @@ Here are some ideas to get you started;
 <br/>
 
 <a href="https://github.com/Adekunle27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adekunle27&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adekunle27&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adekunle27&theme=radical&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adekunle27&theme=radical&layout=compact&count_private=true" />
 </a>
 
 <br/>
