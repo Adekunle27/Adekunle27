@@ -10,7 +10,7 @@ I enjoy working in teams, collaborating with people of different backgrounds and
 Aside slapping my keyboard till something magical emerge, i also like playing football and Traveling. 
 Here are some ideas about me to get you started; 
 
-- ✍️ &nbsp; I do Design Graphics and like stuffs and Blogging as hobbies/side hustles.
+- ✍️ &nbsp; I do Design Graphics and like-stuffs and Blogging as hobbies/side hustles.
 - 🎓 &nbsp; Studying Electronics and Electrical Engineering at Obafemi Awolowo University, Ile-ife.
 - 🌱 &nbsp; Currently Learning more about Machine Learning and Artificial Intelligence because of my interest in it. 
 
