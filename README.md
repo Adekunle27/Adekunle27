@@ -1,21 +1,20 @@
-### Hi there 👋 I'm Abdulmalik
+### Hi there, Abdulmalik here! 👋
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-A Software developer skilled at problem-solving, technical leadership, communications, and presentations with vast experience in the full project life cycle from design to implementation to integration.
+<h3> 👨🏻‍💻 &nbsp; About Me </h3>
+A Developer and Engineer skilled at solving problems, technical leadership, communications with vast array of experience and knowledge in the full project life cycle from design to implementation and to final integration.
 
-I enjoy working in teams, collaborating, pair programming and i am an aspiring Machine Learning Software Engineer 
+I enjoy working in teams, collaborating with people of different backgrounds and also love participating in pair programming.
 
 Aside slapping my keyboard till something magical emerge, i also like playing football and Traveling. 
-Here are some ideas to get you started; 
+Here are some ideas about me to get you started; 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- ✍️ &nbsp; I do Design Graphics and like stuffs and Blogging as hobbies/side hustles.
 - 🎓 &nbsp; Studying Electronics and Electrical Engineering at Obafemi Awolowo University, Ile-ife.
-- 🌱 &nbsp; Learning more about App Development, Machine Learning and Artificial Intelligence.
-- ✍️ &nbsp; Learning more about Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Currently Learning more about Machine Learning and Artificial Intelligence because of my interest in it. 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;My Tech Stacks</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
