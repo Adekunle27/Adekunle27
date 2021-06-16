@@ -1,6 +1,6 @@
-I have added all My Project to be in hidden mode/archived for now for some tangible reasons, kindly bear with me. Thanks 
+Note: Many of my current projects are business projects and hence the code is currently private, but I have a few public projects as well.
 
-
+<!---
 ### Hi there, Abdulmalik here! 👋
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
@@ -69,3 +69,4 @@ Here are some ideas about me to get you started;
 
 - Pronouns: He/Him
 - Fun fact: I hunt for unanswered questions on StackOverflow in my free time and I love travelling.
+-->
