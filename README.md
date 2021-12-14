@@ -32,8 +32,8 @@ A Developer and Engineer skilled at solving problems with vast array of experien
 <br/>
 
 <a href="https://github.com/Adekunle27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adekunle27&theme=radical&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adekunle27&theme=radical&layout=compact&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adekunle27&theme=radical&show_icons=true&count_private=true" />  
+  <span><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adekunle27&theme=radical&layout=compact&count_private=true" /></span>
 </a>
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
