@@ -3,8 +3,7 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 <h3>&nbsp;About Me </h3>
-A Developer and Engineer skilled at solving problems with vast array of experience and knowledge in various Technologies, experienced in the full project life cycle - from design to implementation and to final integration and enjoy working and collaborating with people in teams. Aside slapping my keyboard till something magical emerge, I also like playing football and Traveling in my free time.
-
+A Developer and Engineer skilled at solving problems with vast array of experience and knowledge in various emerging Technologies of the world, experienced in the full project life cycle - from design to implementation and to final integration and enjoy working and collaborating with people in teams. Aside slapping my keyboard till something magical emerge, I also like playing football and love travelling around the world.
 <h3> 🛠 &nbsp;My Tech Stacks</h3>
   
 - 💻 &nbsp;
@@ -27,14 +26,10 @@ A Developer and Engineer skilled at solving problems with vast array of experien
   ![Npm](https://img.shields.io/badge/-Npm-333333?style=flat&logo=npm)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=ffffff)
 
 <br/>
+<a href="https://www.abdulmalikadekunle.netlify.app/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Adekunle27&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adekunle27&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
-<a href="https://github.com/Adekunle27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adekunle27&theme=radical&show_icons=true&count_private=true" />  
-  <span><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adekunle27&theme=radical&layout=compact&count_private=true" /></span>
-</a>
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
