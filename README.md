@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-<h3>&nbsp;About Me </h3>
+<h3>👷&nbsp;About Me </h3>
 A Developer and Engineer skilled at solving problems with vast array of experience and knowledge in various emerging Technologies of the world, experienced in the full project life cycle - from design to implementation and to final integration and enjoy working and collaborating with people in teams. Aside slapping my keyboard till something magical emerge, I also like playing football and love travelling around the world.
 <h3> 🛠 &nbsp;My Tech Stacks</h3>
   
@@ -28,8 +28,9 @@ A Developer and Engineer skilled at solving problems with vast array of experien
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-<a href="https://www.abdulmalikadekunle.netlify.app/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Adekunle27&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adekunle27&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-
+<a href="https://www.abdulmalikadekunle.netlify.app/"><img height="137px" align="center" src="https://github-readme-stats.vercel.app/api?username=Adekunle27&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adekunle27&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<br><br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adekunle27&theme=dark" alt="My Streak" /></p>
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -40,5 +41,7 @@ A Developer and Engineer skilled at solving problems with vast array of experien
 <a href="https://facebook.com/malik.azeez.3114935"><img alt="facebook" src="https://img.shields.io/badge/Facebook-Malik Azeez-blue?style=flat-square&logo=facebook"></a>
 <a href="https://instagram.com/Localhost_5000"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Localhost_5000-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:malikabdulazeez27@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-malikabdulazeez27@gmail.com-blue?style=flat-square&logo=gmail"></a></p>
+<h3 align="left">❤ Support me</h3>
 
+<p><a href="https://www.buymeacoffee.com/AbdulmalikA"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="Buy Abdulmalik a coffee" /></a></p><br/>
 - Fun fact: I hunt for unanswered questions on StackOverflow in my free time.
