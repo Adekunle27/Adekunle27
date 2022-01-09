@@ -44,4 +44,4 @@ A Developer and Engineer skilled at solving problems with vast array of experien
 <h3 align="left">❤ Support me</h3>
 
 <p><a href="https://www.buymeacoffee.com/AbdulmalikA"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="Buy Abdulmalik a coffee" /></a></p><br/>
-- Fun fact: I hunt for unanswered questions on StackOverflow in my free time.
+- Fun fact: I am always learning... 
