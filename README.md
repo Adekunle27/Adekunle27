@@ -34,14 +34,8 @@ A Developer and Engineer skilled at solving problems with vast array of experien
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p>
 <a href="https://abdulmalikadekunle.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-My Website-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/abdulmalik-adekunle"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abdulmalik Adekunle-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/Localhost_5000"><img alt="twitter" src="https://img.shields.io/badge/Twitter-Localhost_5000-blue?style=flat-square&logo=twitter"></a>
-<a href="https://facebook.com/malik.azeez.3114935"><img alt="facebook" src="https://img.shields.io/badge/Facebook-Malik Azeez-blue?style=flat-square&logo=facebook"></a>
-<a href="https://instagram.com/Localhost_5000"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Localhost_5000-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:malikabdulazeez27@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-malikabdulazeez27@gmail.com-blue?style=flat-square&logo=gmail"></a></p>
-<h3 align="left">❤ Support me</h3>
-
-<p><a href="https://www.buymeacoffee.com/AbdulmalikA"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="Buy Abdulmalik a coffee" /></a></p><br/>
+<a href="https://twitter.com/Localhost_5000"><img alt="twitter" src="https://img.shields.io/badge/Twitter-Localhost_5000-blue?style=flat-square&logo=twitter"></a><br><br>
 - Fun fact: I am always learning... 
