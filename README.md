@@ -30,7 +30,6 @@ A Developer and Engineer skilled at solving problems with vast array of experien
 <br/>
 <a href="https://www.abdulmalikadekunle.netlify.app/"><img height="137px" align="center" src="https://github-readme-stats.vercel.app/api?username=Adekunle27&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adekunle27&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 <br><br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adekunle27&theme=dark" alt="My Streak" /></p>
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
