@@ -34,7 +34,7 @@ A Developer and Engineer skilled at solving problems with vast array of experien
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="https://abdulmalikadekunle.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-My Website-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://abdul-malik.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-My Website-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/abdulmalik-adekunle"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abdulmalik Adekunle-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/Localhost_5000"><img alt="twitter" src="https://img.shields.io/badge/Twitter-Localhost_5000-blue?style=flat-square&logo=twitter"></a><br><br>
-- Fun fact: I am always learning... 
+- Fun fact: I can tell you the capital of every single country in the world while sleeping 😎
